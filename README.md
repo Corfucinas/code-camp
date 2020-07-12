@@ -1,4 +1,4 @@
-# leet-code-9000
+# code-camp
 
 [![Dependabot](https://flat.badgen.net/dependabot/thepracticaldev/dev.to?icon=dependabot)](https://flat.badgen.net/dependabot/thepracticaldev/dev.to?icon=dependabot)
 
